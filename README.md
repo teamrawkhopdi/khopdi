@@ -1,2 +1,2 @@
-# khopdi
-I Am Official Membar. 
+# TERE MA KI CHUT
+I Am Official MembaR Of Finatic.
