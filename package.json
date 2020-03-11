@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Barsik008/PossumBot.git"
   },
   "author": "barsik",
-  "license": "MIT",
+  "license": "apache-2.0",
   "dependencies": {
     "discord.js": "^11.4.2"
   },
